@@ -54,3 +54,7 @@ ul li.active a{
 	max-width: 1200px;
 	margin: auto;
 }
+
+p{
+padding :5px;
+}
